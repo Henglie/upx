@@ -1,5 +1,7 @@
 # Copyright (C) Markus Franz Xaver Johannes Oberhumer
 
+# fork: enable GitHub Actions CI
+
 # note: GitHub Actions runner images are frequently updated, and
 # unfortunately this sometimes breaks builds in mysterious ways...
 # see https://github.com/actions/runner-images.git
